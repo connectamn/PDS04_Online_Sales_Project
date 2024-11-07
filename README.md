@@ -21,6 +21,8 @@ Classifying Customer Segments: Grouping customers based on buying behavior to en
 Analyzing Sales Trends: Identifying factors that influence sales, such as discounts and popular products.
 Improving Operational Efficiency: Optimizing inventory and shipment processes based on demand.
 
+## Dataset Source:https://www.kaggle.com/datasets/yusufdelikkaya/online-sales-dataset
+
 ## Methodology
 Data Cleaning and Exploration: Using Python and Pandas for data cleaning, descriptive statistics, and visualization.
 Modeling and Classification:
